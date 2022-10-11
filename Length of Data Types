@@ -1,0 +1,33 @@
+public class Main {
+    public static void main(String[] args) {
+        byte minByte=Byte.MIN_VALUE;
+        byte maxByte=Byte.MAX_VALUE;
+        System.out.println("Byte minimum value= "+minByte);
+        System.out.println("Byte maximum value= "+maxByte);
+
+        short minShort=Short.MIN_VALUE;
+        short maxShort=Short.MAX_VALUE;
+        System.out.println("Short minimum value= "+minShort);
+        System.out.println("Short maximum value= "+maxShort);
+
+        int minInt=Integer.MIN_VALUE;
+        int maxInt=Integer.MAX_VALUE;
+        System.out.println("Integer minimum value= "+minInt);
+        System.out.println("Integer maximum value= "+maxInt);
+
+        float minFloat=Float.MIN_VALUE;
+        float maxFloat=Float.MAX_VALUE;
+        System.out.println("Float minimum value= "+minFloat);
+        System.out.println("Float maximum value= "+maxFloat);
+
+        double minDouble=Double.MIN_VALUE;
+        double maxDouble=Double.MAX_VALUE;
+        System.out.println("Double minimum value= "+minDouble);
+        System.out.println("Double maximum value= "+maxDouble);
+
+        long minLong=Long.MIN_VALUE;
+        long maxLong=Long.MAX_VALUE;
+        System.out.println("Long minimum value= "+minLong);
+        System.out.println("Long maximum value= "+maxLong);
+    }
+}
