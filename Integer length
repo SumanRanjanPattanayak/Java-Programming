@@ -1,0 +1,8 @@
+public class Main {
+    public static void main(String[] args) {
+        int min=Integer.MIN_VALUE;
+        int max=Integer.MAX_VALUE;
+        System.out.println("Integer minimum value= "+min);
+        System.out.println("Integer maximum value= "+max);
+    }
+}
