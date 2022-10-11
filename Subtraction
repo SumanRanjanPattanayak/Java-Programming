@@ -1,0 +1,8 @@
+public class Main {
+    public static void main(String[] args) {
+        int b=12;
+        int c=6;
+        int sub=b-c;
+        System.out.println(sub);
+    }
+}
