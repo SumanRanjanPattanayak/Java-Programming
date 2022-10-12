@@ -1,2 +1,2 @@
 # Java-Programming
-Hi There! here are some basic java programs.
+Hi There! Here are some basic java programs.
