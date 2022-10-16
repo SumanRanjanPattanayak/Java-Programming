@@ -1,0 +1,17 @@
+public class Main {
+    public static void main(String[] args) {
+        int a,b,addition,subtraction,multiplication,division,modulo;
+        a=24;
+        b=15;
+        addition=a+b;
+        subtraction=a-b;
+        multiplication=a*b;
+        division=a/b;
+        modulo=a%b;
+        System.out.println("addition= "+addition);
+        System.out.println("subtraction= "+subtraction);
+        System.out.println("multiplication= "+multiplication);
+        System.out.println("division= "+division);
+        System.out.println("modulo= "+modulo);
+    }
+}
