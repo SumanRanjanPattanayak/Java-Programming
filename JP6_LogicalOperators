@@ -1,0 +1,13 @@
+public class Main {
+    public static void main(String[] args) {
+        int a,b;
+        a=1;
+        b=2;
+        if ((a<b) && (a>0)){
+            System.out.println("AND operator result is true");
+        }//In Logical AND: If any operand is false, then O/P will be False
+        if ((a==0) || (b==2)){
+            System.out.println("OR operator result is true");
+        }//In Logical OR: If any operand is true, then O/P will be True
+    }
+}
